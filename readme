@@ -1,0 +1,19 @@
+# Smart Agriculture Disease Doctor
+
+## Objective
+AI web app to detect crop diseases from leaf images and give treatment suggestions in Telugu.
+
+## Tech Stack
+Python, TensorFlow, Keras, MobileNetV2, Streamlit
+
+## Dataset  
+PlantVillage Dataset - 38 Classes
+
+## Day 1 Progress
+- Project topic finalized
+- GitHub repository created  
+- Research completed
+- PPT prepared
+
+## Next Steps
+Day 2-3: Dataset download and model training

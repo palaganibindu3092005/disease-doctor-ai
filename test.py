@@ -33,8 +33,8 @@ if uploaded_file is not None:
             # confidence = np.max(pred) * 100
             
             # Demo kosam dummy output
-            predicted_class = 'Tomato_Early_Blight'
-            confidence = 92.5
+            predicted_class = 'Tomato__Early_Blight'
+            confidence = 93.7%
             
             st.success(f"Prediction: {predicted_class.replace('_', ')} - {confidence:.2f}%")
             

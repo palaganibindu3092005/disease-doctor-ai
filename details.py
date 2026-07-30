@@ -1,8 +1,6 @@
-disease-doctor-ai/
-├── data/
-├── models/
-├── src/
-│   └── test.py
-├── notebooks/
-├── README.md
-└── requirements.txt
+disease_info = {
+    "Tomato_Early_Blight": {
+        "treatment": "Apply Mancozeb fungicide",
+        "precaution": "Avoid overhead watering"
+    }
+}
